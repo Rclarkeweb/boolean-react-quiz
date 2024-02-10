@@ -46,3 +46,6 @@ Your app is ready to be deployed!
 ![image](https://github.com/Rclarkeweb/boolean-react-quiz/assets/108008511/a63faea3-f148-40cc-96c7-6e464f354430)
 
 ## View it Live
+
+The project is deployed on Vercel.  
+(https://boolean-react-quiz.vercel.app/)
